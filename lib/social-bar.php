@@ -1,7 +1,7 @@
 <?php 
 
 /**
- *	Share Bar
+ *	Share Bar - https://github.com/thebetterwebco/php-social-bar
  *	Darren A Coxall
  *	2012
  */
